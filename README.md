@@ -11,7 +11,7 @@
 |    | <div align="center">Name</div>   | <div align="center">Title</div>  | <div align="center">Socials</div>     |
 | :-----------: | :---------- | :---------- | :----------: |
 |  ![İsmailPhoto](https://github.com/user-attachments/assets/904d462c-f496-435e-99f4-1e5ddbdbe1c8)  | İsmail Dönmez     | Product Owner     | [![linkedin](https://github.com/user-attachments/assets/3baa645a-33bc-4786-8327-cb0f92356f0a)](https://www.linkedin.com/in/ismail-dz/)   | 
-|  ![İncilaPhoto](https://github.com/user-attachments/assets/dff428d7-8638-405f-b3a5-f820260f2572)    | İncila Kırbaç     | Scrum Master     |  [![linkedin](https://github.com/user-attachments/assets/3baa645a-33bc-4786-8327-cb0f92356f0a)](https://www.linkedin.com/in/incila-kirbac/) |
+|  ![AyşeUmayPhoto](https://avatars.githubusercontent.com/u/210121260?s=400&u=cc2185f814d898628f01ddb04e0440b8a2cbef15&v=4)    | Ayşe Umay Gezer     | Scrum Master     |  [![linkedin](https://github.com/user-attachments/assets/3baa645a-33bc-4786-8327-cb0f92356f0a)]([https://www.linkedin.com/in/ayse-umay-gezer-barch-180808270/]) |
 |  ![İbrahimPhoto](https://github.com/user-attachments/assets/4f717eb9-db3a-453f-a703-5f6afdd70f09)  | İbrahim Serhat Aktaş      | Developer      |  [![linkedin](https://github.com/user-attachments/assets/3baa645a-33bc-4786-8327-cb0f92356f0a)](https://www.linkedin.com/in/ibrahim-serhat-aktas/)   |
 |   ![İpekPhoto](https://github.com/user-attachments/assets/563720b1-1bb6-445c-946b-ebcf1ae3d873)   | İpek Nezihe Can      | Developer     |    [![linkedin](https://github.com/user-attachments/assets/3baa645a-33bc-4786-8327-cb0f92356f0a)](https://www.linkedin.com/in/ipek-nezihe-can/)    |
 
@@ -24,24 +24,24 @@
 ![OyunLogo](https://github.com/user-attachments/assets/7ffdf8ab-bbc8-482d-8445-cc782f3ff38a) ![TextLogo](https://github.com/user-attachments/assets/6c792bb1-3ff9-4cba-836c-e7faf64f1694) 
 
 ## Oyun Açıklaması
-
+Dünya'daki çeşitli mutfaklara girip özgün tarifler için doğru malzeme kombinasyonları sağlayın. Yeni mutfaklar keşfedebilmek için müşterilerinizin özel tariflerini aklınızda tutun.
 
 ## Oyun Hikayesi
-
+Dijital göçebe ve lezzet avcısı olan ana karakter, part time olarak geçimini sağlarken dünya halklarından efsanevi tarifler ve püf noktalarını öğrenip gezdiği yerlere füzyon mutfak kültürünü geliştirdiği bir maceraya atılıyor.
 
 ## Oyun Özellikleri
-
+Kolay tek parmak kullanımı, Puzzle türü, eşleştirme ve seçme fonksiyonlarına sahip. Hafıza geliştirici. Kültürel farkındalık sağlayıcı. Rahatlatıcı, Öğretici içerik
 
 
 ## Hedef Kitle
-
+8 yaş üstü, aileye uygun içerik, 
 
 ## Pazarlama Planı
-
+Instagram ve Google ads'de demo videoları ile reklam. Oyun içindeki assetlerin özel tasarımlarında marka yerleştirme.
 
 ## Product Backlog URL
 
-[Miro Backlog Board](https://miro.com/app/board/uXjVK7yGtNA=/)
+[Trello Backlog Board]([https://miro.com/app/board/uXjVK7yGtNA=/]) ([https://trello.com/b/EdFDZjUN/kanban-template)])
 
 ---
 
