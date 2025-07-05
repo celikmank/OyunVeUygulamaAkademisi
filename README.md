@@ -10,31 +10,32 @@
 
 |    | <div align="center">Name</div>   | <div align="center">Title</div>  | <div align="center">Socials</div>     |
 | :-----------: | :---------- | :---------- | :----------: |
-|  ![ErenPhoto](ErenPhoto.png)  | Eren Kam     | Product Owner     | [![linkedin](https://github.com/user-attachments/assets/3baa645a-33bc-4786-8327-cb0f92356f0a)](https://www.linkedin.com/in/ismail-dz/)   | 
-|  ![AyşeUmayPhoto](https://github.com/account)    | Ayşe Umay Gezer     | Scrum Master     |  [![linkedin](https://github.com/user-attachments/assets/3baa645a-33bc-4786-8327-cb0f92356f0a)]([https://www.linkedin.com/in/ayse-umay-gezer-barch-180808270/]) |
-|  ![İbrahimPhoto](https://github.com/user-attachments/assets/4f717eb9-db3a-453f-a703-5f6afdd70f09)  | İbrahim Serhat Aktaş      | Developer      |  [![linkedin](https://github.com/user-attachments/assets/3baa645a-33bc-4786-8327-cb0f92356f0a)](https://www.linkedin.com/in/ibrahim-serhat-aktas/)   |
-|   ![İpekPhoto](https://github.com/user-attachments/assets/563720b1-1bb6-445c-946b-ebcf1ae3d873)   | İpek Nezihe Can      | Developer     |    [![linkedin](https://github.com/user-attachments/assets/3baa645a-33bc-4786-8327-cb0f92356f0a)](https://www.linkedin.com/in/ipek-nezihe-can/)    |
+|  ![ErenPhoto](ErenPhoto.png)  | Eren Kam     | Product Owner     | [![linkedin](https://github.com/user-attachments/assets/3baa645a-33bc-4786-8327-cb0f92356f0a)](https://www.linkedin.com/in/erenkam/)   | 
+|  ![AyşeUmayPhoto](AyseUmayPhoto.png)    | Ayşe Umay Gezer     | Scrum Master     |  [![linkedin](https://github.com/user-attachments/assets/3baa645a-33bc-4786-8327-cb0f92356f0a)](https://www.linkedin.com/in/ayse-umay-gezer-barch-180808270/)|
+|  ![BenguPhoto](BenguPhoto.png)  | Bengü Ceren Özler      | Developer      |  [![linkedin](https://github.com/user-attachments/assets/3baa645a-33bc-4786-8327-cb0f92356f0a)](https://www.linkedin.com/in/beng%C3%BCceren%C3%B6zler/)   |
+|  ![SelinPhoto](SelinPhoto.png)   | Selin Sena Gürsoy    | Developer     |    [![linkedin](https://github.com/user-attachments/assets/3baa645a-33bc-4786-8327-cb0f92356f0a)](https://www.linkedin.com/in/selin-s-g%C3%BCrsoy-ab748133a/)    |
+|  ![KeremPhoto](KeremPhoto.png)   | Kerem Çelikman    | Developer     |    [![linkedin](https://github.com/user-attachments/assets/3baa645a-33bc-4786-8327-cb0f92356f0a)](https://www.linkedin.com/in/kerem%C3%A7elikman/)    |
+|  ![İlknurPhoto](IlknurPhoto.png)   | İlknur Çelik      | Developer     |    [![linkedin](https://github.com/user-attachments/assets/3baa645a-33bc-4786-8327-cb0f92356f0a)](https://www.linkedin.com/in/ilknur-%C3%A7elik-97792b182/)    |
 
 ## Oyun İsmi
 
-****
+Hey Gusto!
 
 ## Oyun Logosu
 
 ![OyunLogo](https://github.com/user-attachments/assets/7ffdf8ab-bbc8-482d-8445-cc782f3ff38a) ![TextLogo](https://github.com/user-attachments/assets/6c792bb1-3ff9-4cba-836c-e7faf64f1694) 
 
 ## Oyun Açıklaması
-Dünya'daki çeşitli mutfaklara girip özgün tarifler için doğru malzeme kombinasyonları sağlayın. Yeni mutfaklar keşfedebilmek için müşterilerinizin özel tariflerini aklınızda tutun.
+Dünya'daki çeşitli mutfaklara girip özgün tarifler için doğru malzeme kombinasyonları sağlayın. Yeni mutfaklar keşfedebilmek için size verilen tariflerdeki malzemeleri doğru sırayla bulmaya çalışın.
 
 ## Oyun Hikayesi
-Dijital göçebe ve lezzet avcısı olan ana karakter, part time olarak geçimini sağlarken dünya halklarından efsanevi tarifler ve püf noktalarını öğrenip gezdiği yerlere füzyon mutfak kültürünü geliştirdiği bir maceraya atılıyor.
+Ana karakterimiz dünyayı gezerek çeşitli tarifler toplayan bir lezzet avcısıdır. Kendi yemek kitabını oluşturmak için bir maceraya atılıyor. Bu yolda, efsanevi tarifleri ve gizli tekniklerini öğreniyor.
 
 ## Oyun Özellikleri
-Kolay tek parmak kullanımı, Puzzle türü, eşleştirme ve seçme fonksiyonlarına sahip. Hafıza geliştirici. Kültürel farkındalık sağlayıcı. Rahatlatıcı, Öğretici içerik
-
+Kolay tek parmak kullanımı, Puzzle türü, eşleştirme ve seçme fonksiyonlarına sahip. Hafıza geliştirici. Kültürel farkındalık sağlayıcı. Rahatlatıcı, Öğretici içerik. Hızlı turlar.
 
 ## Hedef Kitle
-8 yaş üstü, aileye uygun içerik, 
+8 yaş üstü, Aileye uygun içerik. Gastronomiye ilgili, yemek ile ilgili herkes. Commuting-time oyunu.
 
 ## Pazarlama Planı
 Instagram ve Google ads'de demo videoları ile reklam. Oyun içindeki assetlerin özel tasarımlarında marka yerleştirme.
