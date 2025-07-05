@@ -10,7 +10,7 @@
 
 |    | <div align="center">Name</div>   | <div align="center">Title</div>  | <div align="center">Socials</div>     |
 | :-----------: | :---------- | :---------- | :----------: |
-|  ![İsmailPhoto](https://github.com/user-attachments/assets/904d462c-f496-435e-99f4-1e5ddbdbe1c8)  | İsmail Dönmez     | Product Owner     | [![linkedin](https://github.com/user-attachments/assets/3baa645a-33bc-4786-8327-cb0f92356f0a)](https://www.linkedin.com/in/ismail-dz/)   | 
+|  ![ErenPhoto](ErenPhoto.png)  | Eren Kam     | Product Owner     | [![linkedin](https://github.com/user-attachments/assets/3baa645a-33bc-4786-8327-cb0f92356f0a)](https://www.linkedin.com/in/ismail-dz/)   | 
 |  ![AyşeUmayPhoto](https://github.com/account)    | Ayşe Umay Gezer     | Scrum Master     |  [![linkedin](https://github.com/user-attachments/assets/3baa645a-33bc-4786-8327-cb0f92356f0a)]([https://www.linkedin.com/in/ayse-umay-gezer-barch-180808270/]) |
 |  ![İbrahimPhoto](https://github.com/user-attachments/assets/4f717eb9-db3a-453f-a703-5f6afdd70f09)  | İbrahim Serhat Aktaş      | Developer      |  [![linkedin](https://github.com/user-attachments/assets/3baa645a-33bc-4786-8327-cb0f92356f0a)](https://www.linkedin.com/in/ibrahim-serhat-aktas/)   |
 |   ![İpekPhoto](https://github.com/user-attachments/assets/563720b1-1bb6-445c-946b-ebcf1ae3d873)   | İpek Nezihe Can      | Developer     |    [![linkedin](https://github.com/user-attachments/assets/3baa645a-33bc-4786-8327-cb0f92356f0a)](https://www.linkedin.com/in/ipek-nezihe-can/)    |
