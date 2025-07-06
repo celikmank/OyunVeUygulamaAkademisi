@@ -65,7 +65,7 @@ Sprint'in son günü yapılanlar gözden geçirildi ve diğer sprinte hazırlık
 
 # <summary><h3>Ürün Durumu: Ekran Görüntüleri</h3></summary>
 ![Screenshot 1](https://github.com/celikmank/OyunVeUygulamaAkademisi/blob/936f9245922c75356b345c9aae16b452288e443c/Assets1.png)
-![Screenshot 2](https://github.com/celikmank/OyunVeUygulamaAkademisi/blob/936f9245922c75356b345c9aae16b452288e443c/Assets1.png)
+![Screenshot 2](https://github.com/celikmank/OyunVeUygulamaAkademisi/blob/97e10821a1384b1a72ab2842cf182554ba148655/OyunEkrani4-1.png)
 ![Screenshot 3](https://github.com/celikmank/OyunVeUygulamaAkademisi/blob/936f9245922c75356b345c9aae16b452288e443c/Assets1.png)
 ![Screenshot 4](https://github.com/celikmank/OyunVeUygulamaAkademisi/blob/936f9245922c75356b345c9aae16b452288e443c/Assets1.png)
 
