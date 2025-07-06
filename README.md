@@ -42,7 +42,7 @@ Instagram ve Google ads'de demo videoları ile reklam. Oyun içindeki assetlerin
 
 ## Product Backlog URL
 
-[Trello Backlog Board]([https://miro.com/app/board/uXjVK7yGtNA=/]) ([https://trello.com/b/EdFDZjUN/kanban-template)])
+[Trello Backlog Board]() ([https://trello.com/b/EdFDZjUN/kanban-template)])
 
 ---
 
@@ -65,8 +65,8 @@ Sprint'in son günü yapılanlar gözden geçirildi ve diğer sprinte hazırlık
 
 <details> <summary><h3>Ürün Durumu: Ekran Görüntüleri</h3></summary>
   
-  ![Screenshot 1](https://github.com/celikmank/OyunVeUygulamaAkademisi/blob/daacf3610c846efd04b27a42ae8eb604ceb689f0/Assets1.png)
-  ![Screenshot 2](https://github.com/celikmank/OyunVeUygulamaAkademisi/blob/0547f8854f9b03b52f0fae2dfce952f2f21e6e44/4-OyunEkran%C4%B1.png) 
+  ![Screenshot 1](https://github.com/celikmank/OyunVeUygulamaAkademisi/blob/main/Assets1.png)
+  ![Screenshot 2](https://github.com/celikmank/OyunVeUygulamaAkademisi/blob/main/4-OyunEkran%C4%B1.png) 
   ![Screenshot 3](https://github.com/celikmank/OyunVeUygulamaAkademisi/blob/7fac27c63a04bf6ec8d4c5bb67da10671240ea6e/4-OyunEkran%C4%B1-1.png)
   ![Screenshot 4](https://github.com/celikmank/OyunVeUygulamaAkademisi/blob/593b3ca3d6a43be4819e50b1923de8857001b52e/4-OyunEkran%C4%B1-2.png)
   ![Screenshot 5](.)
