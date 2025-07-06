@@ -62,10 +62,11 @@ Sprint'in son günü yapılanlar gözden geçirildi ve diğer sprinte hazırlık
 
 - **Sprint board update**: Sprint board screenshot: 
 ![Backlog 1](https://github.com/celikmank/OyunVeUygulamaAkademisi/blob/581968bedcbcbc784b918dace636df811ecff7aa/TrelloBoardScrum1.png) 
+- **Ürün Durumu**: Ekran Görüntüleri: 
+![Screenshot 1](Assets1.png)
 
 <details> <summary><h3>Ürün Durumu: Ekran Görüntüleri</h3></summary>
   
- ![Screenshot 1](Assets1.png)
  ![Screenshot 1](Assets1.png)
   ![Screenshot 2](OyunEkrani4-1.png) 
   ![Screenshot 3](OyunEkrani4-2.png)
