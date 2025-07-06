@@ -10,7 +10,7 @@
 
 |    | <div align="center">Name</div>   | <div align="center">Title</div>  | <div align="center">Socials</div>     |
 | :-----------: | :---------- | :---------- | :----------: |
-|  ![ErenPhoto](ErenPhoto.png)  | Eren Kam     | Product Owner     | [![linkedin](https://github.com/user-attachments/assets/3baa645a-33bc-4786-8327-cb0f92356f0a)](https://www.linkedin.com/in/erenkam/)   | 
+|  ![ErenPhoto](https://github.com/celikmank/OyunVeUygulamaAkademisi/blob/f332fda1edca3fab16c263622574a676d24033f2/ErenPhoto.png)  | Eren Kam     | Product Owner     | [![linkedin](https://github.com/user-attachments/assets/3baa645a-33bc-4786-8327-cb0f92356f0a)](https://www.linkedin.com/in/erenkam/)   | 
 |  ![AyşeUmayPhoto](AyseUmayPhoto.png)    | Ayşe Umay Gezer     | Scrum Master     |  [![linkedin](https://github.com/user-attachments/assets/3baa645a-33bc-4786-8327-cb0f92356f0a)](https://www.linkedin.com/in/ayse-umay-gezer-barch-180808270/)|
 |  ![BenguPhoto](BenguPhoto.png)  | Bengü Ceren Özler      | Developer      |  [![linkedin](https://github.com/user-attachments/assets/3baa645a-33bc-4786-8327-cb0f92356f0a)](https://www.linkedin.com/in/beng%C3%BCceren%C3%B6zler/)   |
 |  ![SelinPhoto](SelinPhoto.png)   | Selin Sena Gürsoy    | Developer     |    [![linkedin](https://github.com/user-attachments/assets/3baa645a-33bc-4786-8327-cb0f92356f0a)](https://www.linkedin.com/in/selin-s-g%C3%BCrsoy-ab748133a/)    |
