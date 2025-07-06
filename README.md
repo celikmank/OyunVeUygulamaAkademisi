@@ -4,7 +4,7 @@
 
 ## **Takım Logosu**
 
-![Logo](GeciciLogo.png)
+![Logo]()
 
 ## Takım Elemanları
 
