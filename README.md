@@ -23,7 +23,7 @@ Hey Gusto!
 
 ## Oyun Logosu
 
-![OyunLogo](https://github.com/user-attachments/assets/7ffdf8ab-bbc8-482d-8445-cc782f3ff38a) ![TextLogo](https://github.com/user-attachments/assets/6c792bb1-3ff9-4cba-836c-e7faf64f1694) 
+![OyunLogo]() ![TextLogo]() 
 
 ## Oyun Açıklaması
 Dünya'daki çeşitli mutfaklara girip özgün tarifler için doğru malzeme kombinasyonları sağlayın. Yeni mutfaklar keşfedebilmek için size verilen tariflerdeki malzemeleri doğru sırayla bulmaya çalışın.
@@ -50,13 +50,15 @@ Instagram ve Google ads'de demo videoları ile reklam. Oyun içindeki assetlerin
 
 - **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilmektedir.
 
-- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
+- **Sprint içinde tamamlanması tahmin edilen puan**: 10 Puan
 
-- **Puan tamamlama mantığı**: Proje boyunca tamamlanması gereken toplam 300 puanlık backlog bulunmaktadır. 3 sprinte bölündüğünde ilk sprintin 100 ile başlaması gerektiği kararlaştırıldı.
+- **Puan tamamlama mantığı**: Proje boyunca tamamlanması gereken backlog puanı 30'dır. İlk Sprint için bitirilmesi istenilen puan sayısı 10 olarak belirlenmiştir .
 
-- **Backlog düzeni ve Story seçimleri**: Backlog'umuz bir sonraki sprintlerin temelini atacak şekilde düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde görevler dağıtılmıştır. Miro Board'da gözüken pembe item'lar _yazılım_, mor item'lar _ses_, açık yeşil item'lar _görsel efekt_, koyu yeşil item'lar _türü olmayan görevleri_ gösterirken, mavi item'lar _tasarım_ görevlerini temsil etmektedir. Sprint sonu günleri ekibin dinlenmesi amacıyla boş bırakılmıştır.
+- **Backlog düzeni ve Story seçimleri**: Backlog'umuz bir sonraki sprintlerin temelini atacak şekilde düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde görevler dağıtılmıştır. Figjam'i ilham panosu olarak kullandık ve referanslar üzerinden fikir geliştirdik. Sonra buradaki fikirleri Trello'ya aktararak görev dağılımı yaptık. 
+Mavi etiketli olan görevler "kod", Yeşil etiketli olan görevler "dökümantasyon", Mor etiketli olan görevler "tasarım" olarak sınıflandırıldı.
+Sprint'in son günü yapılanlar gözden geçirildi ve diğer sprinte hazırlık yapıldı.
 
-- **Daily Scrum**: Daily Scrum toplantılarının Discord üzerinden yapılması kararlaştırılmıştır. Daily Scrum toplantılarımız ve günlük Whatsapp konuşmalarımız Imgur'da toplanmıştır.: [Sprint 1 - Daily Scrum Chats](https://imgur.com/a/daily-scrum-chats-1-VpkQl6x)
+- **Daily Scrum**: Daily Scrum toplantılarının Meet üzerinden yapılması kararlaştırılmıştır. Daily Scrum toplantılarımız ve günün raporlarını Whatsapp üzerinden grupça paylaştık.
 
 - **Sprint board update**: Sprint board screenshot: 
 ![Backlog 1](https://github.com/user-attachments/assets/e9f43ef7-2d0b-472d-8211-f27f1a2e5eec) 
