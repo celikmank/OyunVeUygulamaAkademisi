@@ -68,8 +68,8 @@ Sprint'in son günü yapılanlar gözden geçirildi ve diğer sprinte hazırlık
   ![Screenshot 1](https://github.com/celikmank/OyunVeUygulamaAkademisi/blob/daacf3610c846efd04b27a42ae8eb604ceb689f0/Assets1.png)
   ![Screenshot 2](https://github.com/celikmank/OyunVeUygulamaAkademisi/blob/0547f8854f9b03b52f0fae2dfce952f2f21e6e44/4-OyunEkran%C4%B1.png) 
   ![Screenshot 3](https://github.com/celikmank/OyunVeUygulamaAkademisi/blob/7fac27c63a04bf6ec8d4c5bb67da10671240ea6e/4-OyunEkran%C4%B1-1.png)
-  ![Screenshot 4](https://github.com/isoszsh/project-anna/assets/154831174/2db880d4-0aa8-4753-a9fc-51b31217a2a9)
-  ![Screenshot 5](https://github.com/isoszsh/project-anna/assets/154831174/f8552310-d0b8-45ea-b776-9f4786dca256)
+  ![Screenshot 4](https://github.com/celikmank/OyunVeUygulamaAkademisi/blob/593b3ca3d6a43be4819e50b1923de8857001b52e/4-OyunEkran%C4%B1-2.png)
+  ![Screenshot 5](.)
 
   </details>
 
