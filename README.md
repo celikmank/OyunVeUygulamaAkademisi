@@ -23,7 +23,7 @@ Hey Gusto!
 
 ## Oyun Logosu
 
-![OyunLogo](GeciciLogo.png) ![TextLogo]() 
+![OyunLogo](https://github.com/celikmank/OyunVeUygulamaAkademisi/blob/f332fda1edca3fab16c263622574a676d24033f2/GeciciLogo.png) ![TextLogo]() 
 
 ## Oyun Açıklaması
 Dünya'daki çeşitli mutfaklara girip özgün tarifler için doğru malzeme kombinasyonları sağlayın. Yeni mutfaklar keşfedebilmek için size verilen tariflerdeki malzemeleri doğru sırayla bulmaya çalışın.
