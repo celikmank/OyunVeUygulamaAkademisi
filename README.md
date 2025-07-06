@@ -65,7 +65,8 @@ Sprint'in son günü yapılanlar gözden geçirildi ve diğer sprinte hazırlık
 
 <details> <summary><h3>Ürün Durumu: Ekran Görüntüleri</h3></summary>
   
-  ![Screenshot 1](Assets1.png)
+ ![Screenshot 1](Assets1.png)
+ ![Screenshot 1](Assets1.png)
   ![Screenshot 2](OyunEkrani4-1.png) 
   ![Screenshot 3](OyunEkrani4-2.png)
   ![Screenshot 4](OyunEkrani4-3.png)
