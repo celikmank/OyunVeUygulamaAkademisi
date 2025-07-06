@@ -61,7 +61,7 @@ Sprint'in son günü yapılanlar gözden geçirildi ve diğer sprinte hazırlık
 - **Daily Scrum**: Daily Scrum toplantılarının Meet üzerinden yapılması kararlaştırılmıştır. Daily Scrum toplantılarımız ve günün raporlarını Whatsapp üzerinden grupça paylaştık.
 
 - **Sprint board update**: Sprint board screenshot: 
-![Backlog 1](TrelloBacklogSprint1.png) 
+![Backlog 1]() 
 
 <details> <summary><h3>Ürün Durumu: Ekran Görüntüleri</h3></summary>
   
