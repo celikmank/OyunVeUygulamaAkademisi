@@ -67,7 +67,7 @@ Sprint'in son günü yapılanlar gözden geçirildi ve diğer sprinte hazırlık
 ![Screenshot 1](https://github.com/celikmank/OyunVeUygulamaAkademisi/blob/936f9245922c75356b345c9aae16b452288e443c/Assets1.png)
 ![Screenshot 2](https://github.com/celikmank/OyunVeUygulamaAkademisi/blob/97e10821a1384b1a72ab2842cf182554ba148655/OyunEkrani4-1.png)
 ![Screenshot 3](https://github.com/celikmank/OyunVeUygulamaAkademisi/blob/97e10821a1384b1a72ab2842cf182554ba148655/OyunEkrani4-2.png)
-![Screenshot 4](https://github.com/celikmank/OyunVeUygulamaAkademisi/blob/936f9245922c75356b345c9aae16b452288e443c/Assets1.png)
+![Screenshot 4](https://github.com/celikmank/OyunVeUygulamaAkademisi/blob/97e10821a1384b1a72ab2842cf182554ba148655/OyunEkrani4-3.png)
 
 - **Sprint Review**: 
   - Üretilen assetler birlikte değerlendirildi. Level design ve oyun için gerekli olan assetler listelendi. Görev paylaşımı yapıldı. Tasarım tarafında etiketli görevler ve kod tarafında etiketli görevler devam ettiriliyor.
