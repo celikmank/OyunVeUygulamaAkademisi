@@ -62,14 +62,7 @@ Sprint'in son günü yapılanlar gözden geçirildi ve diğer sprinte hazırlık
 
 - **Sprint board update**: Sprint board screenshot: 
 <<<<<<< team
-![Backlog 1](https://github.com/user-attachments/assets/e9f43ef7-2d0b-472d-8211-f27f1a2e5eec)
 
-# <summary><h3>Ürün Durumu: Ekran Görüntüleri</h3></summary>
-![Screenshot 1](https://github.com/celikmank/OyunVeUygulamaAkademisi/blob/936f9245922c75356b345c9aae16b452288e443c/Assets1.png)
-![Screenshot 2](https://github.com/celikmank/OyunVeUygulamaAkademisi/blob/936f9245922c75356b345c9aae16b452288e443c/Assets1.png)
-![Screenshot 3](https://github.com/celikmank/OyunVeUygulamaAkademisi/blob/936f9245922c75356b345c9aae16b452288e443c/Assets1.png)
-![Screenshot 4](https://github.com/celikmank/OyunVeUygulamaAkademisi/blob/936f9245922c75356b345c9aae16b452288e443c/Assets1.png)
-=======
 ![Backlog 1](https://github.com/celikmank/OyunVeUygulamaAkademisi/blob/581968bedcbcbc784b918dace636df811ecff7aa/TrelloBoardScrum1.png) 
 
 # <summary><h3>Ürün Durumu: Ekran Görüntüleri</h3></summary>
@@ -88,5 +81,48 @@ Kodlama grubu ağırlıklı olarak: Kerem Çelikman, İlknur Çelik, Eren Kam
 Tasarım grubu çoğunlukla: Selin Gürsoy, Bengü Ceren Özler, Ayşe Umay Gezer ile yürütülüyor. Gruplar toplantılardaki fikir alışverişleri sırasında görev dağılımı yapıp devam ediyor.
   - Toplantıların belirli bir zaman aralığıyla gerçekleştirilmesi kararlaştırıldı.
   - Üretim aşamasında görev alan ekip üyelerine gelecek bölümlerde ihtiyaç duyulabilecek assetlerin üretimi için listeler hazırlandı
+
+---
+
+# Sprint 2
+
+- **Sprint Notları**: User Story'lerin içinde belirlenen 7 adet ekran kartlarda detaylandırıldı. Bitirilen ekranlar Done'a çekildi
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 10 Puan
+
+- **Puan tamamlama mantığı**: Proje boyunca tamamlanması gereken backlog puanı 30'dır. İlk Sprint için bitirilmesi istenilen puan sayısı 10 olarak belirlenmiştir .
+
+- **Backlog düzeni ve Story seçimleri**: Backlog'umuz bir sonraki sprintlerin temelini atacak şekilde düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde görevler dağıtılmıştır. Figjam'i ilham panosu olarak kullandık ve referanslar üzerinden fikir geliştirdik. Sonra buradaki fikirleri Trello'ya aktararak görev dağılımı yaptık. 
+Mavi etiketli olan görevler "kod", Yeşil etiketli olan görevler "dökümantasyon", Mor etiketli olan görevler "tasarım" olarak sınıflandırıldı.
+Sprint'in son günü yapılanlar gözden geçirildi ve diğer sprinte hazırlık yapıldı.
+
+- **Daily Scrum**: Daily Scrum toplantılarının Meet üzerinden yapılması kararlaştırılmıştır. Daily Scrum toplantılarımız ve günün raporlarını Whatsapp üzerinden grupça paylaştık.
+
+- **Sprint board update**: Sprint board screenshot: 
+<<<<<<< team
+
+![Backlog 1](https://github.com/celikmank/OyunVeUygulamaAkademisi/blob/581968bedcbcbc784b918dace636df811ecff7aa/TrelloBoardScrum1.png) 
+
+# <summary><h3>Ürün Durumu: Ekran Görüntüleri</h3></summary>
+![Screenshot 1](https://github.com/celikmank/OyunVeUygulamaAkademisi/blob/936f9245922c75356b345c9aae16b452288e443c/Assets1.png)
+![Screenshot 2](https://github.com/celikmank/OyunVeUygulamaAkademisi/blob/97e10821a1384b1a72ab2842cf182554ba148655/OyunEkrani4-1.png)
+![Screenshot 3](https://github.com/celikmank/OyunVeUygulamaAkademisi/blob/97e10821a1384b1a72ab2842cf182554ba148655/OyunEkrani4-2.png)
+![Screenshot 4](https://github.com/celikmank/OyunVeUygulamaAkademisi/blob/97e10821a1384b1a72ab2842cf182554ba148655/OyunEkrani4-3.png)
+>>>>>>> main
+
+- **Sprint Review**: 
+  - Kod tarafında assetlerin sürükle bırak ve "doğru ise kaba girsin yanlış ise geri yerine dönsün" mekaniği test edildi.
+  - 1. (splash) ekranımız, 2. (giriş menü) ekranımız, 4. oyun raflı mutfak (ana oyun) ekranımız tasarlandı. 7. (Fail) Ekranımız eklendi
+  - Lokalde çalışıp en son github'a yüklenmesi kararlaştırıldı.
+  - Birlikte kararlaştırılan ortak günlerde bir araya gelindi. Sprint Review katılımcıları: Bengü Ceren Özler, Eren Kam, İlknur Çelik, Ayşe Umay Gezer.
+- **Sprint Retrospective:** 
+  - Karakter tasarımı oturdu. Splash ekranındaki animasyonlar sonra yapılacak şekilde önceliklendirildi. Tasarım ve kodlama tarafı eş zamanlı olarak yürütülüyor.
+Kodlama grubu ağırlıklı olarak: Kerem Çelikman, İlknur Çelik, Eren Kam
+Tasarım grubu çoğunlukla: Selin Gürsoy, Bengü Ceren Özler, Ayşe Umay Gezer ile yürütülüyor. Gruplar toplantılardaki fikir alışverişleri sırasında görev dağılımı yapıp devam ediyor.
+  - Haftanın hedefi tüm arayüz ekranlarını tamamlayıp en basit hali ile prototip yapabilmek.
+  - Assetleri çeşitliliği arttırabilmek için arttırmak.
+  - 3. minimap ekranının nasıl çalışacağı hakkında kod ve tasarım tarafı fikir alışverişinde bulundu.
+
+
 
 
