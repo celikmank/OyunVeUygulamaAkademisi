@@ -101,13 +101,10 @@ Sprint'in son günü yapılanlar gözden geçirildi ve diğer sprinte hazırlık
 - **Sprint board update**: Sprint board screenshot: 
 <<<<<<< team
 
-![Backlog 1](https://github.com/celikmank/OyunVeUygulamaAkademisi/blob/581968bedcbcbc784b918dace636df811ecff7aa/TrelloBoardScrum1.png) 
+![Backlog 1](https://github.com/celikmank/OyunVeUygulamaAkademisi/blob/53faa2a59a3c79a7ba23216a3238c10544acae58/sprint2.png) 
 
 # <summary><h3>Ürün Durumu: Ekran Görüntüleri</h3></summary>
 ![Screenshot 1](https://github.com/celikmank/OyunVeUygulamaAkademisi/blob/936f9245922c75356b345c9aae16b452288e443c/Assets1.png)
-![Screenshot 2](https://github.com/celikmank/OyunVeUygulamaAkademisi/blob/97e10821a1384b1a72ab2842cf182554ba148655/OyunEkrani4-1.png)
-![Screenshot 3](https://github.com/celikmank/OyunVeUygulamaAkademisi/blob/97e10821a1384b1a72ab2842cf182554ba148655/OyunEkrani4-2.png)
-![Screenshot 4](https://github.com/celikmank/OyunVeUygulamaAkademisi/blob/97e10821a1384b1a72ab2842cf182554ba148655/OyunEkrani4-3.png)
 >>>>>>> main
 
 - **Sprint Review**: 
