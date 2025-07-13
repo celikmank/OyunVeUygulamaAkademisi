@@ -104,7 +104,7 @@ Sprint'in son günü yapılanlar gözden geçirildi ve diğer sprinte hazırlık
 ![Backlog 1](https://github.com/celikmank/OyunVeUygulamaAkademisi/blob/53faa2a59a3c79a7ba23216a3238c10544acae58/sprint2.png) 
 
 # <summary><h3>Ürün Durumu: Ekran Görüntüleri</h3></summary>
-![Screenshot 1](https://github.com/celikmank/OyunVeUygulamaAkademisi/blob/936f9245922c75356b345c9aae16b452288e443c/Assets1.png)
+![Screenshot 1](https://github.com/celikmank/OyunVeUygulamaAkademisi/blob/53faa2a59a3c79a7ba23216a3238c10544acae58/urun-sprint-2.jpg)
 >>>>>>> main
 
 - **Sprint Review**: 
