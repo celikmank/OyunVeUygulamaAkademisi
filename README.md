@@ -120,6 +120,46 @@ Tasarım grubu çoğunlukla: Selin Gürsoy, Bengü Ceren Özler, Ayşe Umay Geze
   - Assetleri çeşitliliği arttırabilmek için arttırmak.
   - 3. minimap ekranının nasıl çalışacağı hakkında kod ve tasarım tarafı fikir alışverişinde bulundu.
 
+  ---
+
+# Sprint 3
+
+- **Sprint Notları**: User Story'lerin içinde belirlenen 7 adet ana ekran kartlarda detaylandırıldı. Bitirilen ekranlar Done'a çekildi
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 10 Puan
+
+- **Puan tamamlama mantığı**: Proje boyunca tamamlanması gereken backlog puanı 30'dır. İlk Sprint için bitirilmesi istenilen puan sayısı 10 olarak belirlenmiştir .
+
+- **Backlog düzeni ve Story seçimleri**: Backlog'umuz bir sonraki sprintlerin temelini atacak şekilde düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde görevler dağıtılmıştır. Figjam'i ilham panosu olarak kullandık ve referanslar üzerinden fikir geliştirdik. Sonra buradaki fikirleri Trello'ya aktararak görev dağılımı yaptık. 
+Mavi etiketli olan görevler "kod", Yeşil etiketli olan görevler "dökümantasyon", Mor etiketli olan görevler "tasarım" olarak sınıflandırıldı.
+Sprint'in son günü yapılanlar gözden geçirildi ve diğer sprinte hazırlık yapıldı.
+
+- **Daily Scrum**: Daily Scrum toplantılarının Meet üzerinden yapılması kararlaştırılmıştır. Daily Scrum toplantılarımız ve günün raporlarını Whatsapp üzerinden grupça paylaştık.
+
+- **Sprint board update**: Sprint board screenshot: 
+<<<<<<< team
+
+![Backlog 1](https://github.com/celikmank/OyunVeUygulamaAkademisi/blob/707a28a98277f6820493238ad3d9ebd49088f49c/sprint3.png) 
+
+# <summary><h3>Ürün Durumu: Ekran Görüntüleri</h3></summary>
+![Screenshot 1](https://github.com/celikmank/OyunVeUygulamaAkademisi/blob/cd29c577536563049bc686bbccbff633ee8cd6db/2%203%20ve%204%20screen.png)
+![Screenshot 2](https://github.com/celikmank/OyunVeUygulamaAkademisi/blob/cd29c577536563049bc686bbccbff633ee8cd6db/5%206%20ve%207%20screen.png)
+![Gif 1](https://github.com/celikmank/OyunVeUygulamaAkademisi/blob/79dadff0076fdcdbff500cd110c4795223fb4736/test1.gif)
+![gif 2](https://github.com/celikmank/OyunVeUygulamaAkademisi/blob/707a28a98277f6820493238ad3d9ebd49088f49c/Gusto_intro.gif)
+>>>>>>> main
+
+- **Sprint Review**: 
+  - Kod tarafında level 1 ile diğer ekranların arasındaki geçişler çalışıldı test edildi.
+  - Tüm ekranlarımız çalışıldı. Çeşitlendirme için ve animasyonlar için devam ediyoruz.
+  - Malzeme assetleri büyük ölçüde tamamlandı. UI assetleri büyük ölçüde son haline getirildi.
+  - Birlikte kararlaştırılan ortak günlerde bir araya gelindi. Sprint Review katılımcıları: Bengü Ceren Özler, Eren Kam, İlknur Çelik, Ayşe Umay Gezer.
+- **Sprint Retrospective:** 
+  - Minimap tasarımı ve ürün tamamlanma ekranları ekip ile tekrar değerlendirildi ve geliştirildi. Tasarım ve kodlama tarafı eş zamanlı olarak yürütülüyor.
+Kodlama grubu ağırlıklı olarak: Kerem Çelikman, İlknur Çelik, Eren Kam
+Tasarım grubu çoğunlukla: Selin Gürsoy, Bengü Ceren Özler, Ayşe Umay Gezer ile yürütülüyor. Gruplar toplantılardaki fikir alışverişleri sırasında görev dağılımı yapıp devam ediyor.
+  - Haftanın hedefi video demo'da göstereceğimiz ilk Japon mutfağı tasarımı ve assetleri, Sonrasında Türk Mutfağı ve assetlerini tamamlayıp ses assetleri efekt sesleri eklemek.
+  - 3. ekran minimap için çözüm üretildi. 4. ekran'lar mutfağına göre çeşitlenecek.
+
 
 
 
