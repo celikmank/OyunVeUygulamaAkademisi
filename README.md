@@ -119,7 +119,7 @@ Sprint'in son günü yapılanlar gözden geçirildi ve diğer sprinte hazırlık
 Kodlama grubu ağırlıklı olarak: Kerem Çelikman, İlknur Çelik, Eren Kam
 Tasarım grubu çoğunlukla: Selin Gürsoy, Bengü Ceren Özler, Ayşe Umay Gezer ile yürütülüyor. Gruplar toplantılardaki fikir alışverişleri sırasında görev dağılımı yapıp devam ediyor.
   - Haftanın hedefi video demo'da göstereceğimiz ilk Japon mutfağı tasarımı ve assetleri, Sonrasında Türk Mutfağı ve assetlerini tamamlayıp ses assetleri efekt sesleri eklemek.
-  - 3. ekran minimap için çözüm üretildi. 4. ekran'lar mutfağına göre çeşitlenecek.
+  - 3'üncü ekran minimap için çözüm üretildi. 4. ekran'lar mutfağına göre çeşitlenecek.
 
 
 
