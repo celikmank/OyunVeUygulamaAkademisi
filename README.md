@@ -143,11 +143,7 @@ Sprint'in son günü yapılanlar gözden geçirildi ve diğer sprinte hazırlık
 ![Backlog 1](https://github.com/celikmank/OyunVeUygulamaAkademisi/blob/cf2ae6145b6dcc2b38b8c0b523d11ba91ac1c648/3.sprint.png) 
 
 # <summary><h3>Ürün Durumu: Ekran Görüntüleri</h3></summary>
-![Screenshot 1](https://github.com/celikmank/OyunVeUygulamaAkademisi/blob/53faa2a59a3c79a7ba23216a3238c10544acae58/urun-sprint-2.jpg)
-![Screenshot 1](https://github.com/celikmank/OyunVeUygulamaAkademisi/blob/cd29c577536563049bc686bbccbff633ee8cd6db/2%203%20ve%204%20screen.png)
-![Screenshot 2](https://github.com/celikmank/OyunVeUygulamaAkademisi/blob/252d6059097e456d44c8425d2497f142108859f4/4%206%20ve%207%20screen.png)
-![Gif 1](https://github.com/celikmank/OyunVeUygulamaAkademisi/blob/79dadff0076fdcdbff500cd110c4795223fb4736/test1.gif)
-![gif 2](https://github.com/celikmank/OyunVeUygulamaAkademisi/blob/707a28a98277f6820493238ad3d9ebd49088f49c/Gusto_intro.gif)
+Daha fazla görsel için: [Oyun İçi Görseller](https://drive.google.com/drive/folders/166u74wjOJQ9U8L-jsSneoPE1BqK9-8Tm?usp=sharing)
 
 - **Sprint Review**: 
   - Takımın çoğu katkılarını sağladı ve süreci yoğunluklarımızla beraber tamamlamış olduğumuz için birbirimizi tebrik ettik.
