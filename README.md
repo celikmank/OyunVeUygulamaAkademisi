@@ -143,7 +143,9 @@ Sprint'in son günü yapılanlar gözden geçirildi ve diğer sprinte hazırlık
 ![Backlog 1](https://github.com/celikmank/OyunVeUygulamaAkademisi/blob/cf2ae6145b6dcc2b38b8c0b523d11ba91ac1c648/3.sprint.png) 
 
 # <summary><h3>Ürün Durumu: Ekran Görüntüleri</h3></summary>
-Daha fazla görsel ve bilgisayarda oynanması için exe dosyası: [Drive linki](https://drive.google.com/drive/folders/166u74wjOJQ9U8L-jsSneoPE1BqK9-8Tm?usp=sharing)
+Daha fazla görsel,
+Bilgisayarda oynanması için exe dosyası ve
+apk linki için: [Drive linki](https://drive.google.com/drive/folders/166u74wjOJQ9U8L-jsSneoPE1BqK9-8Tm?usp=sharing)
 
 - **Sprint Review**: 
   - Takımın çoğu katkılarını sağladı ve süreci yoğunluklarımızla beraber tamamlamış olduğumuz için birbirimizi tebrik ettik.
