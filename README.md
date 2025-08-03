@@ -4,8 +4,8 @@
 
 ## **Takım Logosu**
 
-![Logo](https://github.com/celikmank/OyunVeUygulamaAkademisi/blob/cf2ae6145b6dcc2b38b8c0b523d11ba91ac1c648/TastyTiles%20logo.jpg)
-![Logo](https://github.com/celikmank/OyunVeUygulamaAkademisi/blob/cf2ae6145b6dcc2b38b8c0b523d11ba91ac1c648/TastyTiles%20logo2.jpg)
+![Logo](https://github.com/celikmank/OyunVeUygulamaAkademisi/blob/d5e1ce7d274000fbc814c0f7d6b3a01cd41ff7cb/logo1.jpg)
+![Logo](https://github.com/celikmank/OyunVeUygulamaAkademisi/blob/d5e1ce7d274000fbc814c0f7d6b3a01cd41ff7cb/logo2.jpg)
 
 ## Takım Elemanları
 
@@ -121,6 +121,46 @@ Kodlama grubu ağırlıklı olarak: Kerem Çelikman, İlknur Çelik, Eren Kam
 Tasarım grubu çoğunlukla: Selin Gürsoy, Bengü Ceren Özler, Ayşe Umay Gezer ile yürütülüyor. Gruplar toplantılardaki fikir alışverişleri sırasında görev dağılımı yapıp devam ediyor.
   - Haftanın hedefi video demo'da göstereceğimiz ilk Japon mutfağı tasarımı ve assetleri, Sonrasında Türk Mutfağı ve assetlerini tamamlayıp ses assetleri efekt sesleri eklemek.
   - 3'üncü ekran minimap için çözüm üretildi. 4. ekran'lar mutfağına göre çeşitlenecek.
+
+  ---
+
+# Sprint 3
+
+- **Sprint Notları**: User Story'lerin içinde belirlenen 7 adet ana ekran kartlarda detaylandırıldı. Bitirilen ekranlar Done'a çekildi. Bootcamp sürecinde tamamlanması gereken assetler tamamlandı. Şu an To-do'dakiler Bootcamp sonrası için bize yön gösteriyor.
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 10 Puan
+
+- **Puan tamamlama mantığı**: Proje boyunca tamamlanması gereken backlog puanı 30'dır. İlk Sprint için bitirilmesi istenilen puan sayısı 10 olarak belirlenmiştir .
+
+- **Backlog düzeni ve Story seçimleri**: Backlog'umuz bir sonraki sprintlerin temelini atacak şekilde düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde görevler dağıtılmıştır. Figjam'i ilham panosu olarak kullandık ve referanslar üzerinden fikir geliştirdik. Sonra buradaki fikirleri Trello'ya aktararak görev dağılımı yaptık. 
+Mavi etiketli olan görevler "kod", Yeşil etiketli olan görevler "dökümantasyon", Mor etiketli olan görevler "tasarım" olarak sınıflandırıldı.
+Sprint'in son günü yapılanlar gözden geçirildi ve diğer sprinte hazırlık yapıldı.
+
+- **Daily Scrum**: Daily Scrum toplantılarının Meet üzerinden yapılması kararlaştırılmıştır. Daily Scrum toplantılarımız ve günün raporlarını Whatsapp üzerinden grupça paylaştık.
+
+- **Sprint board update**: Sprint board screenshot: 
+
+![Backlog 1](https://github.com/celikmank/OyunVeUygulamaAkademisi/blob/cf2ae6145b6dcc2b38b8c0b523d11ba91ac1c648/3.sprint.png) 
+
+# <summary><h3>Ürün Durumu: Ekran Görüntüleri</h3></summary>
+![Screenshot 1](https://github.com/celikmank/OyunVeUygulamaAkademisi/blob/53faa2a59a3c79a7ba23216a3238c10544acae58/urun-sprint-2.jpg)
+![Screenshot 1](https://github.com/celikmank/OyunVeUygulamaAkademisi/blob/cd29c577536563049bc686bbccbff633ee8cd6db/2%203%20ve%204%20screen.png)
+![Screenshot 2](https://github.com/celikmank/OyunVeUygulamaAkademisi/blob/252d6059097e456d44c8425d2497f142108859f4/4%206%20ve%207%20screen.png)
+![Gif 1](https://github.com/celikmank/OyunVeUygulamaAkademisi/blob/79dadff0076fdcdbff500cd110c4795223fb4736/test1.gif)
+![gif 2](https://github.com/celikmank/OyunVeUygulamaAkademisi/blob/707a28a98277f6820493238ad3d9ebd49088f49c/Gusto_intro.gif)
+
+- **Sprint Review**: 
+  - Takımın çoğu katkılarını sağladı ve süreci yoğunluklarımızla beraber tamamlamış olduğumuz için birbirimizi tebrik ettik.
+  - Bonus mekaniklerini netleştirdik. Bonus kullanımı animasyonları eklendi.
+  - Demo için tamamlanması gereken assetler tamamlandı. Geri kalanlar oyun geliştirme fikri için to-do'ya listelendi.
+ Sprint Review katılımcıları: Bengü Ceren Özler, Eren Kam, İlknur Çelik, Ayşe Umay Gezer. Selin Gürsoy (6 kişiden 5 kişi desteğini sürdürdü)
+- **Sprint Retrospective:** 
+  - Süreçte Kerem Çelikman'ın desteğini daha çok almayı diledik. Kodlama tarafını Eren Kam, üstlendi. Birkaç bug'ın üstesinden layığıyla geldi. Yazılım tarafında daha fazla destek alarak devam edilmesi konusunda hemfikiriz.
+Kodlama grubu ağırlıklı olarak: Eren Kam (level design sürecinde tek ilerledi)
+Tasarım grubu çoğunlukla: Selin Gürsoy, Bengü Ceren Özler, Ayşe Umay Gezer ve İlknur Çelik ile yürütüldü.
+
+
+
 
 
 
