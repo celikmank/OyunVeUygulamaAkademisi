@@ -4,7 +4,8 @@
 
 ## **Takım Logosu**
 
-![Logo]()
+![Logo](https://github.com/celikmank/OyunVeUygulamaAkademisi/blob/cf2ae6145b6dcc2b38b8c0b523d11ba91ac1c648/TastyTiles%20logo.jpg)
+![Logo](https://github.com/celikmank/OyunVeUygulamaAkademisi/blob/cf2ae6145b6dcc2b38b8c0b523d11ba91ac1c648/TastyTiles%20logo2.jpg)
 
 ## Takım Elemanları
 
