@@ -1,0 +1,468 @@
+fileFormatVersion: 2
+guid: e86820e094a9cdc479f9596cab3263db
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4428586508614884470
+    second: "fi\u015F i\xE7erik_0"
+  - first:
+      213: 4896018631776808264
+    second: "fi\u015F i\xE7erik_1"
+  - first:
+      213: 3035611635134088279
+    second: "fi\u015F i\xE7erik_2"
+  - first:
+      213: 227964970209550921
+    second: "fi\u015F i\xE7erik_3"
+  - first:
+      213: -7597223717020528401
+    second: "fi\u015F i\xE7erik_4"
+  - first:
+      213: 3984094810333262065
+    second: "fi\u015F i\xE7erik_5"
+  - first:
+      213: -296895009994546912
+    second: "fi\u015F i\xE7erik_6"
+  - first:
+      213: 6432870299313038839
+    second: "fi\u015F i\xE7erik_7"
+  - first:
+      213: -1079382082647887486
+    second: "fi\u015F i\xE7erik_8"
+  - first:
+      213: -4101691801960546508
+    second: "fi\u015F i\xE7erik_9"
+  - first:
+      213: 116203495749813994
+    second: "fi\u015F i\xE7erik_10"
+  - first:
+      213: -5468220278192469363
+    second: "fi\u015F i\xE7erik_11"
+  - first:
+      213: -8374842490910611608
+    second: "fi\u015F i\xE7erik_12"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "fi\u015F i\xE7erik_0"
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 594
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67cd31747ff757d30800000000000000
+      internalID: 4428586508614884470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "fi\u015F i\xE7erik_1"
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 494
+        width: 377
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d20c0610722f340800000000000000
+      internalID: 4896018631776808264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "fi\u015F i\xE7erik_2"
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 328
+        width: 122
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 754c534e2b8a02a20800000000000000
+      internalID: 3035611635134088279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "fi\u015F i\xE7erik_3"
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 330
+        width: 127
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 942a29ebee4e92300800000000000000
+      internalID: 227964970209550921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "fi\u015F i\xE7erik_4"
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 337
+        width: 119
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe091dbf74d319690800000000000000
+      internalID: -7597223717020528401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "fi\u015F i\xE7erik_5"
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 273
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f034611f195a4730800000000000000
+      internalID: 3984094810333262065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "fi\u015F i\xE7erik_6"
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 273
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02160b9bf8731ebf0800000000000000
+      internalID: -296895009994546912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "fi\u015F i\xE7erik_7"
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 273
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f5e6b45475264950800000000000000
+      internalID: 6432870299313038839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "fi\u015F i\xE7erik_8"
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 273
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 281f9d2f6b34501f0800000000000000
+      internalID: -1079382082647887486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "fi\u015F i\xE7erik_9"
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 62
+        width: 75
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f720ea90dd317c0800000000000000
+      internalID: -4101691801960546508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "fi\u015F i\xE7erik_10"
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 66
+        width: 71
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae683d5b676dc9100800000000000000
+      internalID: 116203495749813994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "fi\u015F i\xE7erik_11"
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 8
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a00ccf0aafc14b0800000000000000
+      internalID: -5468220278192469363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "fi\u015F i\xE7erik_12"
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 8
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 867ec67502596cb80800000000000000
+      internalID: -8374842490910611608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "fi\u015F i\xE7erik_0": 4428586508614884470
+      "fi\u015F i\xE7erik_1": 4896018631776808264
+      "fi\u015F i\xE7erik_10": 116203495749813994
+      "fi\u015F i\xE7erik_11": -5468220278192469363
+      "fi\u015F i\xE7erik_12": -8374842490910611608
+      "fi\u015F i\xE7erik_2": 3035611635134088279
+      "fi\u015F i\xE7erik_3": 227964970209550921
+      "fi\u015F i\xE7erik_4": -7597223717020528401
+      "fi\u015F i\xE7erik_5": 3984094810333262065
+      "fi\u015F i\xE7erik_6": -296895009994546912
+      "fi\u015F i\xE7erik_7": 6432870299313038839
+      "fi\u015F i\xE7erik_8": -1079382082647887486
+      "fi\u015F i\xE7erik_9": -4101691801960546508
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
