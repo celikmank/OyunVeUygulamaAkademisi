@@ -131,16 +131,9 @@ Instagram ve Google ads'de demo videoları ile reklam. Oyun içindeki assetlerin
 ![Backlog 3](https://github.com/user-attachments/assets/3f2eb3ac-c640-41ff-b8b8-e1d706340979)
 
 <details> <summary><h3>Ürün Durumu: Ekran Görüntüleri</h3></summary>
-  
-  ![Screenshot 1](https://github.com/user-attachments/assets/ddfdaa57-cf4d-4dba-961a-1b75ea107f14)
-  ![Screenshot 2](https://github.com/user-attachments/assets/f8e41da4-d95a-4710-a813-a270c2267589) 
-  ![Screenshot 3](https://github.com/user-attachments/assets/1bb0b4a5-171c-42a6-83e2-aff324f617e3)
-  ![Screenshot 4](https://github.com/user-attachments/assets/eec03244-2746-48b5-af0d-a449a8130e1b)
-  ![Screenshot 5](https://github.com/user-attachments/assets/4c8be489-482f-4ed6-be55-70fb3396a07f)
-
 </details>
 
-  Daha fazla görsel için: [Oyun İçi Görseller](https://imgur.com/a/Ln4C4Jv)
+  Daha fazla görsel için: [Oyun İçi Görseller](https://drive.google.com/drive/folders/166u74wjOJQ9U8L-jsSneoPE1BqK9-8Tm?usp=sharing)
 
 - **Sprint Review**: 
   - Scrum boyunca eksiksiz çalışıldığı için ekip üyeleri birbirini tebrik etti.
