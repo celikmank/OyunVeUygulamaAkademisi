@@ -24,7 +24,7 @@ Hey Gusto!
 
 ## Oyun Logosu
 
-![OyunLogo](https://github.com/celikmank/OyunVeUygulamaAkademisi/blob/f332fda1edca3fab16c263622574a676d24033f2/GeciciLogo.png) ![TextLogo]() 
+![OyunLogo](https://github.com/celikmank/OyunVeUygulamaAkademisi/blob/f332fda1edca3fab16c263622574a676d24033f2/GeciciLogo.png)
 
 ## Oyun Açıklaması
 Dünya'daki çeşitli mutfaklara girip özgün tarifler için doğru malzeme kombinasyonları sağlayın. Yeni mutfaklar keşfedebilmek için size verilen tariflerdeki malzemeleri doğru sırayla bulmaya çalışın.
@@ -143,7 +143,7 @@ Sprint'in son günü yapılanlar gözden geçirildi ve diğer sprinte hazırlık
 ![Backlog 1](https://github.com/celikmank/OyunVeUygulamaAkademisi/blob/cf2ae6145b6dcc2b38b8c0b523d11ba91ac1c648/3.sprint.png) 
 
 # <summary><h3>Ürün Durumu: Ekran Görüntüleri</h3></summary>
-Daha fazla görsel için: [Oyun İçi Görseller](https://drive.google.com/drive/folders/166u74wjOJQ9U8L-jsSneoPE1BqK9-8Tm?usp=sharing)
+Daha fazla görsel ve bilgisayarda oynanması için exe dosyası: [Drive linki](https://drive.google.com/drive/folders/166u74wjOJQ9U8L-jsSneoPE1BqK9-8Tm?usp=sharing)
 
 - **Sprint Review**: 
   - Takımın çoğu katkılarını sağladı ve süreci yoğunluklarımızla beraber tamamlamış olduğumuz için birbirimizi tebrik ettik.
